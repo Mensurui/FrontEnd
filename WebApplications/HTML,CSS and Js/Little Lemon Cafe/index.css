@@ -1,0 +1,14 @@
+body{
+    flex: content;
+    justify-content: center;
+    align-items: center;
+    padding-left: 100px;
+    background-color: antiquewhite;
+}
+h1{
+    font-weight: bold;
+    color: purple;
+}
+#chicken{
+    color: blue;
+}
