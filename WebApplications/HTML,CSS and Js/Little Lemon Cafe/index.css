@@ -1,13 +1,16 @@
 body{
-    flex: content;
+    display: flex;
     justify-content: center;
     align-items: center;
     padding-left: 100px;
     background-color: antiquewhite;
+    margin: auto;
+   
 }
 h1{
     font-weight: bold;
     color: purple;
+    float: right;
 }
 h2{
     text-transform: uppercase;
